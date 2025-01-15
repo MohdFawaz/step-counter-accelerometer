@@ -61,8 +61,6 @@ project/
 │
 ├── python/
 │   ├── stepcounter.py      # Main implementation
-│   ├── static_threshold.py  # Basic threshold implementation
-│   └── dynamic_threshold.py # Enhanced threshold implementation
 │
 └── README.md               # Project documentation
 ```
